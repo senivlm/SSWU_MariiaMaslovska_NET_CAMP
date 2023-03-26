@@ -1,0 +1,15 @@
+C:\Users\maslo\source\repos\SpiralMatrix\bin\Debug\net7.0\SpiralMatrix.exe
+C:\Users\maslo\source\repos\SpiralMatrix\bin\Debug\net7.0\SpiralMatrix.deps.json
+C:\Users\maslo\source\repos\SpiralMatrix\bin\Debug\net7.0\SpiralMatrix.runtimeconfig.json
+C:\Users\maslo\source\repos\SpiralMatrix\bin\Debug\net7.0\SpiralMatrix.dll
+C:\Users\maslo\source\repos\SpiralMatrix\bin\Debug\net7.0\SpiralMatrix.pdb
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.csproj.AssemblyReference.cache
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.AssemblyInfo.cs
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.dll
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\refint\SpiralMatrix.dll
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.pdb
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\SpiralMatrix.genruntimeconfig.cache
+C:\Users\maslo\source\repos\SpiralMatrix\obj\Debug\net7.0\ref\SpiralMatrix.dll
