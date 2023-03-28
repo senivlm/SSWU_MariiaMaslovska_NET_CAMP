@@ -1,7 +1,7 @@
 ﻿namespace SpiralMatrix
 {
     public static class Program
-    {
+    {//Вітаю. Перше завдання по створенню репозиторію Ви виконали, однак прохання дотримуватись запропонованої системи назв
         static void Main(string[] args)
         {
             Console.Write("Enter m: ");
