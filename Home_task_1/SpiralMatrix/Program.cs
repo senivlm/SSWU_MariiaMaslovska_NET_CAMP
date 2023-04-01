@@ -1,7 +1,8 @@
 ﻿namespace SpiralMatrix
 {
     public static class Program
-    {
+    {// Вітаю. Назви підпапок мають відповідати номеру підзадач.
+        // Домовлялись, що мислимо об'єктно-зорієнтовано!!! Делегуємо розв'язок задачі в інші класи...
         static void Main(string[] args)
         {
             Console.Write("Enter m: ");
@@ -17,7 +18,7 @@
             Console.WriteLine("Counter-clockwise spiral matrix:");
             Func_2(m, n);
         }
-
+// Невдала назва методу. дуже загальна. Метод не тільки заповнює, а і друкує, що робить його не мобільним.
         public static void Func(int m, int n)
         {
             int[,] a = new int[m, n];
