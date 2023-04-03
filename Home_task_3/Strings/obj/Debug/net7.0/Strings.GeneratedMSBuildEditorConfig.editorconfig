@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = SpiralMatrix
-build_property.ProjectDir = C:\Users\maslo\OneDrive\Рабочий стол\Sigma\SSWU_MariiaMaslovska_NET_CAMP\Home_task_1\SpiralMatrix\
+build_property.RootNamespace = Strings
+build_property.ProjectDir = C:\Users\maslo\OneDrive\Рабочий стол\Sigma\SSWU_MariiaMaslovska_NET_CAMP\Home_task_3\Strings\

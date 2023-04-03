@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_1\\SpiralMatrix\\SpiralMatrix.csproj": {}
+    "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_3\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_1\\SpiralMatrix\\SpiralMatrix.csproj": {
+    "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_3\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_1\\SpiralMatrix\\SpiralMatrix.csproj",
-        "projectName": "SpiralMatrix",
-        "projectPath": "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_1\\SpiralMatrix\\SpiralMatrix.csproj",
+        "projectUniqueName": "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_3\\Strings\\Strings.csproj",
+        "projectName": "Strings",
+        "projectPath": "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_3\\Strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\maslo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_1\\SpiralMatrix\\obj\\",
+        "outputPath": "C:\\Users\\maslo\\OneDrive\\Рабочий стол\\Sigma\\SSWU_MariiaMaslovska_NET_CAMP\\Home_task_3\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
