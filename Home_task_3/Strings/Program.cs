@@ -1,7 +1,8 @@
 ﻿ namespace Strings
 {
     public static class Program
-    {
+    {// Не побачила діаграми((( для першого завдання
+        //Домовлялись, що клас Program не розв'язуватиме задачі, а ми маємо мислити об'єктно-зорієнтовано.
         static void Main(string[] args)
         {
             // Task 2.
@@ -35,7 +36,7 @@
             string[] words = str.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
             for (int i = 0; i < words.Length; i++)
-            {
+            {// Можливий вихід за межі виділеної пам'яті. Цикл слід виконувати по умові words[i].Length-1.
                 for (int j = 0; j < words[i].Length; j++)
                 {
                     if (j + 1 != words[i].Length && words[i][j] == words[i][j + 1])
@@ -45,7 +46,7 @@
                     }
                 }
             }
-
+// Загублено початкову конфігурацію пробільних символів
             string newstr = String.Join(" ", words);
 
             return newstr;
@@ -72,7 +73,7 @@
         {
             int count = 0;
             int index = -1;
-
+// У цьому циклі можна залишитись назавжди....
             do
             {
                 index = str.IndexOf(substr, index + 1);
